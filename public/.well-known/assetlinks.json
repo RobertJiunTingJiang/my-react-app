@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.robertjiuntingjiang.myreactapp",
+    "sha256_cert_fingerprints": ["57:5C:86:8B:A5:3E:2B:84:36:42:7E:7E:20:04:4E:06:D2:AF:BE:62:8A:5A:E8:25:08:51:E4:67:48:1B:0B:AE"]
+  }
+}]
